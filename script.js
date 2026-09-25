@@ -15,7 +15,9 @@ const messages = [
 button.addEventListener("click", () => {
   globe.classList.add("shaking");
   setTimeout(() => globe.classList.remove("shaking"), 600);
-}); 
 
   const pick = Math.floor(Math.random() * messages.length);
   message.textContent = messages[pick];
+}); 
+
+  
