@@ -1,5 +1,5 @@
 
-# Builderpage
+# A SNOWGLOBE
  The project **"A snowglobe"** is a little website made for the YSWS (You Ship We Ship) 'Snowglobe'. The purpose behind it is to confirm (re)learning how to make a webstie ​✨. 
 
 It has one pages :
@@ -21,13 +21,12 @@ It has one pages :
 - Javascript (to make the little animation and making appearing a different message each time you click on the button)
 - Google Fonts (to put a font on the website text)
 - Visual Code Studio (to make the code)
+- Pixel Studio (to make the pixel art)
 
-# How I made it
+# How I made it ?
 
-I follow the beginners guide from [Snowglobe](https://snowglobe.hackclub.com/guides)
+For most of the project,I've followed the beginner guides from [Snowglobe](https://snowglobe.hackclub.com/guides). The only thing I've did on my own was making a snowglobe in pixel art !
 
-If you just want to visit the website, click <a href= https://aaa-like-the-batterie.github.io/builderpage>here</a>
+If you just want to visit the website, click <a href=https://aaa-like-the-batterie.github.io/snowglobe>here</a>
 
 
-
-#### I've made this readme by following the templte of ***Fynr1x*** : https://gist.github.com/FaizeenHoque/0709576cc598721df07fb62d2430e6fe
