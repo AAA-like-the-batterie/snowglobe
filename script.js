@@ -4,13 +4,15 @@ const message = document.querySelector("#message");
 console.log(button);
 
 const messages = [
-  "you are someone's favourite person to sit next to.",
-  "the thing you are building counts, even half finished.",
-  "you are allowed to be a beginner for as long as you need.",
-  "someone is going to love what you make with this.",
-  "hot chocolate tastes better after a hard day. you've earned one.",
-  "you ask good questions. that is the whole skill.",
-];
+  "You are someone's favourite person to sit next to.",
+  "The thing you are building counts, even half finished.",
+  "You are allowed to be a beginner for as long as you need.",
+  "Someone is going to love what you make with this.",
+  "Hot chocolate tastes better after a hard day. You've earned one.",
+  "You ask good questions. That is the whole skill.",
+  "Just one more day, and vacations will came.",
+   "If sadness didn't exist how you know when you're happy ? ", // Huh, I don't if everyone would want to see a message like that, but that's my case ( Am I weird ?Maybe...)
+]
  
 button.addEventListener("click", () => {
   globe.classList.add("shaking");
