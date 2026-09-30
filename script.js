@@ -10,8 +10,8 @@ const messages = [
   "Someone is going to love what you make with this.",
   "Hot chocolate tastes better after a hard day. You've earned one.",
   "You ask good questions. That is the whole skill.",
-  "Just one more day, and vacations will came.",
-   "If sadness didn't exist how do you know when you're happy ? ", // Huh, I don't if everyone would want to see a message like that, but that's my case ( Am I weird ?Maybe...)
+  "Just one more day, and vacations will come.",
+   "If sadness didn't exist, how would you know when you're happy? ", // Huh, I don't if everyone would want to see a message like that, but that's my case ( Am I weird ?Maybe...)
 ]
  
 button.addEventListener("click", () => {
