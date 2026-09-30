@@ -11,7 +11,7 @@ const messages = [
   "Hot chocolate tastes better after a hard day. You've earned one.",
   "You ask good questions. That is the whole skill.",
   "Just one more day, and vacations will came.",
-   "If sadness didn't exist how you know when you're happy ? ", // Huh, I don't if everyone would want to see a message like that, but that's my case ( Am I weird ?Maybe...)
+   "If sadness didn't exist how do you know when you're happy ? ", // Huh, I don't if everyone would want to see a message like that, but that's my case ( Am I weird ?Maybe...)
 ]
  
 button.addEventListener("click", () => {
